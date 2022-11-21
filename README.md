@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @vijaysurya12
-- 👀 I’m interested in databases management
-- 🌱 I’m currently le<h1 align="center">Hi 👋, I'm Vijay surya reddy</h1>
+<h1 align="center">Hi 👋, I'm Vijay surya reddy</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
 <img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
@@ -24,13 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijysurya12&show_icons=true&locale=en" alt="vijysurya12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijysurya12&" alt="vijysurya12" /></p>arning java, python, html
-- 📫 How to reach me
-
-<a href="https://www.instagram.com/vijaysuryadhalavai/">
-  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-</a>
-
-<a href="mailto:vijaysurya.dhalavai@gmail.com">
-  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-</a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijysurya12&" alt="vijysurya12" /></p>
