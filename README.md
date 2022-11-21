@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay surya reddy</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
-<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/84068792/202949747-4ddf4681-1187-4d79-9bc6-9732168c1217.png">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijysurya12&label=Profile%20views&color=0e75b6&style=flat" alt="vijysurya12" /> </p>
 
 - 🌱 I’m currently learning **python, java**
