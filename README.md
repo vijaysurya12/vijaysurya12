@@ -14,3 +14,9 @@
 <a href="https://instagram.com/vijaysuryadhalavai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijaysuryadhalavai" height="30" width="40" /></a>
 </p>
 
+</br>
+</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaysurya12&theme=dark" alt="Intestelar" /></p>
+</br>
+</br>
+<br />
