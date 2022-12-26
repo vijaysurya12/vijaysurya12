@@ -14,6 +14,12 @@
 <a href="https://instagram.com/vijaysuryadhalavai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijaysuryadhalavai" height="30" width="40" /></a>
 </p>
 
+<!--🐍💬SNAKETITLE-->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+<!--🐍📈SNAKEGRAPH-->
+<img src="https://raw.githubusercontent.com/Intestelar/Intestelar/output/github-contribution-grid-snake.svg" width="100%">
+
 </br>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaysurya12&theme=dark" alt="Intestelar" /></p>
